@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_DC1m0GVdEe6p1oZboG5qlg">
+    <contextParameter comment="" name="tsv_file_Header" prompt="tsv_file_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_DC1m0WVdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_Encoding" prompt="tsv_file_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_DC1m0mVdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_FieldSeparator" prompt="tsv_file_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\t&quot;" xmi:id="_DC1m02VdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_RowSeparator" prompt="tsv_file_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_DC1m1GVdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_File" prompt="tsv_file_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/madan/Downloads/Seattle_Pet_Licenses.tsv" xmi:id="_DC1m1WVdEe6p1oZboG5qlg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Development" xmi:id="_DC1m1mVdEe6p1oZboG5qlg">
+    <contextParameter comment="" name="tsv_file_Header" prompt="tsv_file_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_DC1m12VdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_Encoding" prompt="tsv_file_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_DC1m2GVdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_FieldSeparator" prompt="tsv_file_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\t&quot;" xmi:id="_DC1m2WVdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_RowSeparator" prompt="tsv_file_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_DC1m2mVdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_File" prompt="tsv_file_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/madan/Downloads/Seattle_Pet_Licenses.tsv" xmi:id="_DC1m22VdEe6p1oZboG5qlg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Production" xmi:id="_DC1m3GVdEe6p1oZboG5qlg">
+    <contextParameter comment="" name="tsv_file_Header" prompt="tsv_file_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_DC1m3WVdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_Encoding" prompt="tsv_file_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_DC1m3mVdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_FieldSeparator" prompt="tsv_file_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\t&quot;" xmi:id="_DC1m32VdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_RowSeparator" prompt="tsv_file_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_DC1m4GVdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_File" prompt="tsv_file_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/madan/Downloads/Seattle_Pet_Licenses.tsv" xmi:id="_DC1m4WVdEe6p1oZboG5qlg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Test" xmi:id="_DC1m4mVdEe6p1oZboG5qlg">
+    <contextParameter comment="" name="tsv_file_Header" prompt="tsv_file_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_DC1m42VdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_Encoding" prompt="tsv_file_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_DC1m5GVdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_FieldSeparator" prompt="tsv_file_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\t&quot;" xmi:id="_DC1m5WVdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_RowSeparator" prompt="tsv_file_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_DC1m5mVdEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="tsv_file_File" prompt="tsv_file_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/madan/Downloads/Seattle_Pet_Licenses.tsv" xmi:id="_DC1m52VdEe6p1oZboG5qlg"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_edaf4ac1-8333-4d9d-b3fb-76c3decfc1b1"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>4nzjkl56IqbADNKbnzpJfxx8gRr/IEJCz4JpAXZVfbaa85ieNAw79+hPh2/Gu0lpj5uUANKVwVPi&#13;
+z4P7Sk+Q6g==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_4d60692c-22f1-4a84-8944-895a2ede18c6"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>eZlssCK0UUm9sIf3f7WKqHfp/zlO1tv6NQirOPSrD9/979Whf34SKRrekN0+4If2qouUbilnU6T/&#13;
+ZDisCeiiow==</DigestValue></Reference></SignedInfo><SignatureValue>oCYjZ2SZXM0fOjcS38NOQ3sm3h+rGLnEvcB5uJqSX0q2cVhus826dRlSj/1EhBCDiQrpX9tzdWK5&#13;
+Os0HVAVW5ZiPIA+wqodRcVbt5Nn80kVO4HQoZh8nVMw4UgUn0LRPcLwfg4dP3vimTeeHw2pb8W+X&#13;
+8qo+VQ/9nSCMjV9k4tBx1T+8pbUffxa9RS+/cPeeYBhqAc2vUHP1qE2fV3G6VVpIiXB+ijwt6gWM&#13;
+U4wRCrTdev7mGed1Z+3JA1ghFv0gJYyb887H2uTFHtOmgHlMuZZlU5a49swAlOJw80uD2TJWejFR&#13;
+PgxnrO1NAG8t/UTAScxfNBpVR2ZY5c8dpgvqUA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_4d60692c-22f1-4a84-8944-895a2ede18c6" Target="#_edaf4ac1-8333-4d9d-b3fb-76c3decfc1b1"><Timestamp>2023-10-07 22:01:20</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

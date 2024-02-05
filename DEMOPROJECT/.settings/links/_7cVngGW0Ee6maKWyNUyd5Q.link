@@ -1,0 +1,23 @@
+{
+  "itemId" : "_7cVngGW0Ee6maKWyNUyd5Q",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_s0sJAGWxEe6maKWyNUyd5Q",
+    "parameterList" : [ {
+      "id" : "_s1R-4WWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_Encoding"
+    }, {
+      "id" : "_s1R-4mWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_File"
+    }, {
+      "id" : "_s1R-42WxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_FieldSeparator"
+    }, {
+      "id" : "_s1R-5GWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_RowSeparator"
+    }, {
+      "id" : "_s1R-5WWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_Header"
+    } ]
+  } ]
+}

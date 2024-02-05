@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_Nz5yUGWBEe6p1oZboG5qlg">
+    <contextParameter comment="" name="LA_Crime_Header" prompt="LA_Crime_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_Nz5yUWWBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_Encoding" prompt="LA_Crime_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_Nz5yUmWBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_FieldSeparator" prompt="LA_Crime_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_Nz5yU2WBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_RowSeparator" prompt="LA_Crime_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_Nz5yVGWBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_File" prompt="LA_Crime_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/madan/Downloads/Crime_Data_from_2020_to_Present_4102023.csv" xmi:id="_Nz5yVWWBEe6p1oZboG5qlg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Development" xmi:id="_Nz5yVmWBEe6p1oZboG5qlg">
+    <contextParameter comment="" name="LA_Crime_Header" prompt="LA_Crime_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_Nz5yV2WBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_Encoding" prompt="LA_Crime_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_Nz5yWGWBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_FieldSeparator" prompt="LA_Crime_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_Nz5yWWWBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_RowSeparator" prompt="LA_Crime_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_Nz5yWmWBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_File" prompt="LA_Crime_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/madan/Downloads/Crime_Data_from_2020_to_Present_4102023.csv" xmi:id="_Nz5yW2WBEe6p1oZboG5qlg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Production" xmi:id="_Nz5yXGWBEe6p1oZboG5qlg">
+    <contextParameter comment="" name="LA_Crime_Header" prompt="LA_Crime_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_Nz5yXWWBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_Encoding" prompt="LA_Crime_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_Nz5yXmWBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_FieldSeparator" prompt="LA_Crime_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_Nz5yX2WBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_RowSeparator" prompt="LA_Crime_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_Nz5yYGWBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_File" prompt="LA_Crime_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/madan/Downloads/Crime_Data_from_2020_to_Present_4102023.csv" xmi:id="_Nz5yYWWBEe6p1oZboG5qlg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Test" xmi:id="_Nz5yYmWBEe6p1oZboG5qlg">
+    <contextParameter comment="" name="LA_Crime_Header" prompt="LA_Crime_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_Nz5yY2WBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_Encoding" prompt="LA_Crime_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_Nz5yZGWBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_FieldSeparator" prompt="LA_Crime_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_Nz5yZWWBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_RowSeparator" prompt="LA_Crime_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_Nz5yZmWBEe6p1oZboG5qlg"/>
+    <contextParameter comment="" name="LA_Crime_File" prompt="LA_Crime_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/madan/Downloads/Crime_Data_from_2020_to_Present_4102023.csv" xmi:id="_Nz5yZ2WBEe6p1oZboG5qlg"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_10a0d909-f932-4d9c-a339-b117c63dd1b3"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>+L+Yt9qpM1C6BWjkjdlUw2CrdTiasGyR59TGS647+LUWfa0POZ5JtfCYL8NyHVK/Tc+nY3yxRIBm&#13;
+gH9arF4qYQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_6f257823-509c-47ab-98ab-e32fb8e25e25"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>roK0g2uTaBHQDuZaQ+vtM57oln6EaeEfOoYpYMxFqhEN3Mijet+aor7t7mfdHW2DaLYjKCRTPVpu&#13;
+Gra+7rVBiQ==</DigestValue></Reference></SignedInfo><SignatureValue>n5JKE9goSKmu1nIsCTDxoUHZsfzVOvLMObEDC7IcAYJibLFZ8pgba30JulMEwD86zTA9mNMeGe3O&#13;
+XEHou5TStOzmiqMA8BaRVRVgWCppiWatZ1gcBLazcy5KvzcEklgBDdHaqDvSgVWGYPDjBj7LKP8w&#13;
+jM9wQjCbkUOqZfZg9hNNHKfckfhdUJuq29GqZOJOZTvoGY2pwY+Byv4kO9Uxlxql6J8kLhM2O8/f&#13;
+nFGaMHwBLBmxy5FiJ5JH7YyqLyfFWewBCbilcytJrJPPEeGJDYjB0/i1DHbR4i4I69O3sPeQNLiu&#13;
+uf1Y/WUCs1lGjXDMfyKEh+SvJSacJRZnO23LIQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_6f257823-509c-47ab-98ab-e32fb8e25e25" Target="#_10a0d909-f932-4d9c-a339-b117c63dd1b3"><Timestamp>2023-10-08 02:20:14</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

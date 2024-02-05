@@ -1,0 +1,29 @@
+{
+  "itemId" : "_2etJUGWHEe6maKWyNUyd5Q",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_ljbegGWIEe6maKWyNUyd5Q",
+    "parameterList" : [ {
+      "id" : "_ljtyYWWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Schema"
+    }, {
+      "id" : "_ljtyYmWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Password"
+    }, {
+      "id" : "_ljtyY2WIEe6maKWyNUyd5Q",
+      "name" : "Azure_Server"
+    }, {
+      "id" : "_ljtyZGWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Database"
+    }, {
+      "id" : "_ljtyZWWIEe6maKWyNUyd5Q",
+      "name" : "Azure_AdditionalParams"
+    }, {
+      "id" : "_ljtyZmWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Port"
+    }, {
+      "id" : "_ljtyZ2WIEe6maKWyNUyd5Q",
+      "name" : "Azure_Login"
+    } ]
+  } ]
+}

@@ -1,0 +1,79 @@
+[ {
+  "baseItem" : {
+    "id" : "_0Q0O4GVaEe6p1oZboG5qlg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_DCAgYGVdEe6p1oZboG5qlg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_NzmQUGWBEe6p1oZboG5qlg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_Xn7tcGVbEe6p1oZboG5qlg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_ljbegGWIEe6maKWyNUyd5Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_rilNcGWcEe6maKWyNUyd5Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_s0sJAGWxEe6maKWyNUyd5Q",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_2etJUGWHEe6maKWyNUyd5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_7cVngGW0Ee6maKWyNUyd5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_9GQMcGWEEe6maKWyNUyd5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_7cVngGW0Ee6maKWyNUyd5Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DemoRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GetRandomPhoneNum",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+} ]

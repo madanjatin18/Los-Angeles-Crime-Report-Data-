@@ -1,0 +1,496 @@
+{
+  "itemId" : "_0Q0O4GVaEe6p1oZboG5qlg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_DCAgYGVdEe6p1oZboG5qlg",
+    "parameterList" : [ {
+      "id" : "_DC1m0WVdEe6p1oZboG5qlg",
+      "name" : "tsv_file_Header"
+    }, {
+      "id" : "_DC1m0mVdEe6p1oZboG5qlg",
+      "name" : "tsv_file_Encoding"
+    }, {
+      "id" : "_DC1m02VdEe6p1oZboG5qlg",
+      "name" : "tsv_file_FieldSeparator"
+    }, {
+      "id" : "_DC1m1GVdEe6p1oZboG5qlg",
+      "name" : "tsv_file_RowSeparator"
+    }, {
+      "id" : "_DC1m1WVdEe6p1oZboG5qlg",
+      "name" : "tsv_file_File"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_Xn7tcGVbEe6p1oZboG5qlg",
+    "parameterList" : [ {
+      "id" : "_Xo1FUmVbEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Server"
+    }, {
+      "id" : "_Xo1FUWVbEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_AdditionalParams"
+    }, {
+      "id" : "_Xo1FVGVbEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Login"
+    }, {
+      "id" : "_Xo1FVmVbEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Port"
+    }, {
+      "id" : "_Xo1FU2VbEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Database"
+    }, {
+      "id" : "_Xo1FVWVbEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Password"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_NzmQUGWBEe6p1oZboG5qlg",
+    "parameterList" : [ {
+      "id" : "_Nz5yUmWBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_Encoding"
+    }, {
+      "id" : "_Nz5yUWWBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_Header"
+    }, {
+      "id" : "_Nz5yVWWBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_File"
+    }, {
+      "id" : "_Nz5yVGWBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_RowSeparator"
+    }, {
+      "id" : "_Nz5yU2WBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_FieldSeparator"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_ljbegGWIEe6maKWyNUyd5Q",
+    "parameterList" : [ {
+      "id" : "_ljtyZGWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Database"
+    }, {
+      "id" : "_ljtyY2WIEe6maKWyNUyd5Q",
+      "name" : "Azure_Server"
+    }, {
+      "id" : "_ljtyYmWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Password"
+    }, {
+      "id" : "_ljtyZWWIEe6maKWyNUyd5Q",
+      "name" : "Azure_AdditionalParams"
+    }, {
+      "id" : "_ljtyZ2WIEe6maKWyNUyd5Q",
+      "name" : "Azure_Login"
+    }, {
+      "id" : "_ljtyZmWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Port"
+    }, {
+      "id" : "_ljtyYWWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Schema"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_rilNcGWcEe6maKWyNUyd5Q",
+    "parameterList" : [ {
+      "id" : "_rjU0UmWcEe6maKWyNUyd5Q",
+      "name" : "LACrime_File"
+    }, {
+      "id" : "_rjU0UWWcEe6maKWyNUyd5Q",
+      "name" : "LACrime_Encoding"
+    }, {
+      "id" : "_rjU0VWWcEe6maKWyNUyd5Q",
+      "name" : "LACrime_Header"
+    }, {
+      "id" : "_rjU0U2WcEe6maKWyNUyd5Q",
+      "name" : "LACrime_FieldSeparator"
+    }, {
+      "id" : "_rjU0VGWcEe6maKWyNUyd5Q",
+      "name" : "LACrime_RowSeparator"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_s0sJAGWxEe6maKWyNUyd5Q",
+    "parameterList" : [ {
+      "id" : "_s1R-4mWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_File"
+    }, {
+      "id" : "_s1R-5WWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_Header"
+    }, {
+      "id" : "_s1R-4WWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_Encoding"
+    }, {
+      "id" : "_s1R-5GWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_RowSeparator"
+    }, {
+      "id" : "_s1R-42WxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_FieldSeparator"
+    } ]
+  }, {
+    "contextName" : "Development",
+    "repoId" : "_DCAgYGVdEe6p1oZboG5qlg",
+    "parameterList" : [ {
+      "id" : "_DC1m12VdEe6p1oZboG5qlg",
+      "name" : "tsv_file_Header"
+    }, {
+      "id" : "_DC1m2GVdEe6p1oZboG5qlg",
+      "name" : "tsv_file_Encoding"
+    }, {
+      "id" : "_DC1m2WVdEe6p1oZboG5qlg",
+      "name" : "tsv_file_FieldSeparator"
+    }, {
+      "id" : "_DC1m2mVdEe6p1oZboG5qlg",
+      "name" : "tsv_file_RowSeparator"
+    }, {
+      "id" : "_DC1m22VdEe6p1oZboG5qlg",
+      "name" : "tsv_file_File"
+    } ]
+  }, {
+    "contextName" : "Development",
+    "repoId" : "_Xn7tcGVbEe6p1oZboG5qlg",
+    "parameterList" : [ {
+      "id" : "_eHiYsmVcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Server"
+    }, {
+      "id" : "_eHiYsWVcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_AdditionalParams"
+    }, {
+      "id" : "_eHiYtGVcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Login"
+    }, {
+      "id" : "_eHiYtmVcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Port"
+    }, {
+      "id" : "_eHiYs2VcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Database"
+    }, {
+      "id" : "_eHiYtWVcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Password"
+    } ]
+  }, {
+    "contextName" : "Development",
+    "repoId" : "_NzmQUGWBEe6p1oZboG5qlg",
+    "parameterList" : [ {
+      "id" : "_Nz5yWGWBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_Encoding"
+    }, {
+      "id" : "_Nz5yV2WBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_Header"
+    }, {
+      "id" : "_Nz5yW2WBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_File"
+    }, {
+      "id" : "_Nz5yWmWBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_RowSeparator"
+    }, {
+      "id" : "_Nz5yWWWBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_FieldSeparator"
+    } ]
+  }, {
+    "contextName" : "Development",
+    "repoId" : "_ljbegGWIEe6maKWyNUyd5Q",
+    "parameterList" : [ {
+      "id" : "_ljtybGWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Database"
+    }, {
+      "id" : "_ljtya2WIEe6maKWyNUyd5Q",
+      "name" : "Azure_Server"
+    }, {
+      "id" : "_ljtyamWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Password"
+    }, {
+      "id" : "_ljtybWWIEe6maKWyNUyd5Q",
+      "name" : "Azure_AdditionalParams"
+    }, {
+      "id" : "_ljtyb2WIEe6maKWyNUyd5Q",
+      "name" : "Azure_Login"
+    }, {
+      "id" : "_ljtybmWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Port"
+    }, {
+      "id" : "_ljtyaWWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Schema"
+    } ]
+  }, {
+    "contextName" : "Development",
+    "repoId" : "_rilNcGWcEe6maKWyNUyd5Q",
+    "parameterList" : [ {
+      "id" : "_rjU0WGWcEe6maKWyNUyd5Q",
+      "name" : "LACrime_File"
+    }, {
+      "id" : "_rjU0V2WcEe6maKWyNUyd5Q",
+      "name" : "LACrime_Encoding"
+    }, {
+      "id" : "_rjU0W2WcEe6maKWyNUyd5Q",
+      "name" : "LACrime_Header"
+    }, {
+      "id" : "_rjU0WWWcEe6maKWyNUyd5Q",
+      "name" : "LACrime_FieldSeparator"
+    }, {
+      "id" : "_rjU0WmWcEe6maKWyNUyd5Q",
+      "name" : "LACrime_RowSeparator"
+    } ]
+  }, {
+    "contextName" : "Development",
+    "repoId" : "_s0sJAGWxEe6maKWyNUyd5Q",
+    "parameterList" : [ {
+      "id" : "_s1R-6GWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_File"
+    }, {
+      "id" : "_s1R-62WxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_Header"
+    }, {
+      "id" : "_s1R-52WxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_Encoding"
+    }, {
+      "id" : "_s1R-6mWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_RowSeparator"
+    }, {
+      "id" : "_s1R-6WWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_FieldSeparator"
+    } ]
+  }, {
+    "contextName" : "Production",
+    "repoId" : "_DCAgYGVdEe6p1oZboG5qlg",
+    "parameterList" : [ {
+      "id" : "_DC1m3WVdEe6p1oZboG5qlg",
+      "name" : "tsv_file_Header"
+    }, {
+      "id" : "_DC1m3mVdEe6p1oZboG5qlg",
+      "name" : "tsv_file_Encoding"
+    }, {
+      "id" : "_DC1m32VdEe6p1oZboG5qlg",
+      "name" : "tsv_file_FieldSeparator"
+    }, {
+      "id" : "_DC1m4GVdEe6p1oZboG5qlg",
+      "name" : "tsv_file_RowSeparator"
+    }, {
+      "id" : "_DC1m4WVdEe6p1oZboG5qlg",
+      "name" : "tsv_file_File"
+    } ]
+  }, {
+    "contextName" : "Production",
+    "repoId" : "_Xn7tcGVbEe6p1oZboG5qlg",
+    "parameterList" : [ {
+      "id" : "_eHiYuWVcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Server"
+    }, {
+      "id" : "_eHiYuGVcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_AdditionalParams"
+    }, {
+      "id" : "_eHiYu2VcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Login"
+    }, {
+      "id" : "_eHiYvWVcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Port"
+    }, {
+      "id" : "_eHiYumVcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Database"
+    }, {
+      "id" : "_eHiYvGVcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Password"
+    } ]
+  }, {
+    "contextName" : "Production",
+    "repoId" : "_NzmQUGWBEe6p1oZboG5qlg",
+    "parameterList" : [ {
+      "id" : "_Nz5yXmWBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_Encoding"
+    }, {
+      "id" : "_Nz5yXWWBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_Header"
+    }, {
+      "id" : "_Nz5yYWWBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_File"
+    }, {
+      "id" : "_Nz5yYGWBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_RowSeparator"
+    }, {
+      "id" : "_Nz5yX2WBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_FieldSeparator"
+    } ]
+  }, {
+    "contextName" : "Production",
+    "repoId" : "_ljbegGWIEe6maKWyNUyd5Q",
+    "parameterList" : [ {
+      "id" : "_ljtydGWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Database"
+    }, {
+      "id" : "_ljtyc2WIEe6maKWyNUyd5Q",
+      "name" : "Azure_Server"
+    }, {
+      "id" : "_ljtycmWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Password"
+    }, {
+      "id" : "_ljtydWWIEe6maKWyNUyd5Q",
+      "name" : "Azure_AdditionalParams"
+    }, {
+      "id" : "_ljtyd2WIEe6maKWyNUyd5Q",
+      "name" : "Azure_Login"
+    }, {
+      "id" : "_ljtydmWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Port"
+    }, {
+      "id" : "_ljtycWWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Schema"
+    } ]
+  }, {
+    "contextName" : "Production",
+    "repoId" : "_rilNcGWcEe6maKWyNUyd5Q",
+    "parameterList" : [ {
+      "id" : "_rjU0XmWcEe6maKWyNUyd5Q",
+      "name" : "LACrime_File"
+    }, {
+      "id" : "_rjU0XWWcEe6maKWyNUyd5Q",
+      "name" : "LACrime_Encoding"
+    }, {
+      "id" : "_rjU0YWWcEe6maKWyNUyd5Q",
+      "name" : "LACrime_Header"
+    }, {
+      "id" : "_rjU0X2WcEe6maKWyNUyd5Q",
+      "name" : "LACrime_FieldSeparator"
+    }, {
+      "id" : "_rjU0YGWcEe6maKWyNUyd5Q",
+      "name" : "LACrime_RowSeparator"
+    } ]
+  }, {
+    "contextName" : "Production",
+    "repoId" : "_s0sJAGWxEe6maKWyNUyd5Q",
+    "parameterList" : [ {
+      "id" : "_s1R-7mWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_File"
+    }, {
+      "id" : "_s1R-8WWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_Header"
+    }, {
+      "id" : "_s1R-7WWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_Encoding"
+    }, {
+      "id" : "_s1R-8GWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_RowSeparator"
+    }, {
+      "id" : "_s1R-72WxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_FieldSeparator"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_DCAgYGVdEe6p1oZboG5qlg",
+    "parameterList" : [ {
+      "id" : "_DC1m42VdEe6p1oZboG5qlg",
+      "name" : "tsv_file_Header"
+    }, {
+      "id" : "_DC1m5GVdEe6p1oZboG5qlg",
+      "name" : "tsv_file_Encoding"
+    }, {
+      "id" : "_DC1m5WVdEe6p1oZboG5qlg",
+      "name" : "tsv_file_FieldSeparator"
+    }, {
+      "id" : "_DC1m5mVdEe6p1oZboG5qlg",
+      "name" : "tsv_file_RowSeparator"
+    }, {
+      "id" : "_DC1m52VdEe6p1oZboG5qlg",
+      "name" : "tsv_file_File"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_Xn7tcGVbEe6p1oZboG5qlg",
+    "parameterList" : [ {
+      "id" : "_eHiYwGVcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Server"
+    }, {
+      "id" : "_eHiYv2VcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_AdditionalParams"
+    }, {
+      "id" : "_eHiYwmVcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Login"
+    }, {
+      "id" : "_eHiYxGVcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Port"
+    }, {
+      "id" : "_eHiYwWVcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Database"
+    }, {
+      "id" : "_eHiYw2VcEe6p1oZboG5qlg",
+      "name" : "SeatlePetTarget_Password"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_NzmQUGWBEe6p1oZboG5qlg",
+    "parameterList" : [ {
+      "id" : "_Nz5yZGWBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_Encoding"
+    }, {
+      "id" : "_Nz5yY2WBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_Header"
+    }, {
+      "id" : "_Nz5yZ2WBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_File"
+    }, {
+      "id" : "_Nz5yZmWBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_RowSeparator"
+    }, {
+      "id" : "_Nz5yZWWBEe6p1oZboG5qlg",
+      "name" : "LA_Crime_FieldSeparator"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_ljbegGWIEe6maKWyNUyd5Q",
+    "parameterList" : [ {
+      "id" : "_ljtyfGWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Database"
+    }, {
+      "id" : "_ljtye2WIEe6maKWyNUyd5Q",
+      "name" : "Azure_Server"
+    }, {
+      "id" : "_ljtyemWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Password"
+    }, {
+      "id" : "_ljtyfWWIEe6maKWyNUyd5Q",
+      "name" : "Azure_AdditionalParams"
+    }, {
+      "id" : "_ljtyf2WIEe6maKWyNUyd5Q",
+      "name" : "Azure_Login"
+    }, {
+      "id" : "_ljtyfmWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Port"
+    }, {
+      "id" : "_ljtyeWWIEe6maKWyNUyd5Q",
+      "name" : "Azure_Schema"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_rilNcGWcEe6maKWyNUyd5Q",
+    "parameterList" : [ {
+      "id" : "_rjU0ZGWcEe6maKWyNUyd5Q",
+      "name" : "LACrime_File"
+    }, {
+      "id" : "_rjU0Y2WcEe6maKWyNUyd5Q",
+      "name" : "LACrime_Encoding"
+    }, {
+      "id" : "_rjU0Z2WcEe6maKWyNUyd5Q",
+      "name" : "LACrime_Header"
+    }, {
+      "id" : "_rjU0ZWWcEe6maKWyNUyd5Q",
+      "name" : "LACrime_FieldSeparator"
+    }, {
+      "id" : "_rjU0ZmWcEe6maKWyNUyd5Q",
+      "name" : "LACrime_RowSeparator"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_s0sJAGWxEe6maKWyNUyd5Q",
+    "parameterList" : [ {
+      "id" : "_s1R-9GWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_File"
+    }, {
+      "id" : "_s1R-92WxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_Header"
+    }, {
+      "id" : "_s1R-82WxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_Encoding"
+    }, {
+      "id" : "_s1R-9mWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_RowSeparator"
+    }, {
+      "id" : "_s1R-9WWxEe6maKWyNUyd5Q",
+      "name" : "LA_CrimeSource_FieldSeparator"
+    } ]
+  } ]
+}

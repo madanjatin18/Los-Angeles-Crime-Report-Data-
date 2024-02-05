@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_ljtyYGWIEe6maKWyNUyd5Q">
+    <contextParameter comment="" name="Azure_Schema" prompt="Azure_Schema?" promptNeeded="false" repositoryContextId="" type="id_String" value="madanjatin" xmi:id="_ljtyYWWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Password" prompt="Azure_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:Qi4mDxVESmZLLohXqE5t3sEIsNS0e6jW6NIqhkAEqExs8USwPfE2" xmi:id="_ljtyYmWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Server" prompt="Azure_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="damgserver7370.database.windows.net" xmi:id="_ljtyY2WIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Database" prompt="Azure_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="DADABI" xmi:id="_ljtyZGWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_AdditionalParams" prompt="Azure_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_ljtyZWWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Port" prompt="Azure_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="1433" xmi:id="_ljtyZmWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Login" prompt="Azure_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="madanjatin" xmi:id="_ljtyZ2WIEe6maKWyNUyd5Q"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Development" xmi:id="_ljtyaGWIEe6maKWyNUyd5Q">
+    <contextParameter comment="" name="Azure_Schema" prompt="Azure_Schema?" promptNeeded="false" repositoryContextId="" type="id_String" value="madanjatin" xmi:id="_ljtyaWWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Password" prompt="Azure_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:dHAJRVKQQIh0MaKYON7Hegs2zjBScYBl36ug2u9/b5WUQcYh2a4Z" xmi:id="_ljtyamWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Server" prompt="Azure_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="damgserver7370.database.windows.net" xmi:id="_ljtya2WIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Database" prompt="Azure_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="DADABI" xmi:id="_ljtybGWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_AdditionalParams" prompt="Azure_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_ljtybWWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Port" prompt="Azure_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="1433" xmi:id="_ljtybmWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Login" prompt="Azure_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="madanjatin" xmi:id="_ljtyb2WIEe6maKWyNUyd5Q"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Production" xmi:id="_ljtycGWIEe6maKWyNUyd5Q">
+    <contextParameter comment="" name="Azure_Schema" prompt="Azure_Schema?" promptNeeded="false" repositoryContextId="" type="id_String" value="madanjatin" xmi:id="_ljtycWWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Password" prompt="Azure_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:Yzkwi8nDWNxNaNGUwy/Cnp2mji84EKnkxH+R44X7GsKW+Qe2X9Gz" xmi:id="_ljtycmWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Server" prompt="Azure_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="damgserver7370.database.windows.net" xmi:id="_ljtyc2WIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Database" prompt="Azure_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="DADABI" xmi:id="_ljtydGWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_AdditionalParams" prompt="Azure_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_ljtydWWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Port" prompt="Azure_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="1433" xmi:id="_ljtydmWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Login" prompt="Azure_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="madanjatin" xmi:id="_ljtyd2WIEe6maKWyNUyd5Q"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Test" xmi:id="_ljtyeGWIEe6maKWyNUyd5Q">
+    <contextParameter comment="" name="Azure_Schema" prompt="Azure_Schema?" promptNeeded="false" repositoryContextId="" type="id_String" value="madanjatin" xmi:id="_ljtyeWWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Password" prompt="Azure_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:F8HCQkkDCrIbloPy5Oq7j2dZLwybEpPOs32DMdOLCKoR1LvJ3GD/" xmi:id="_ljtyemWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Server" prompt="Azure_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="damgserver7370.database.windows.net" xmi:id="_ljtye2WIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Database" prompt="Azure_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="DADABI" xmi:id="_ljtyfGWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_AdditionalParams" prompt="Azure_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_ljtyfWWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Port" prompt="Azure_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="1433" xmi:id="_ljtyfmWIEe6maKWyNUyd5Q"/>
+    <contextParameter comment="" name="Azure_Login" prompt="Azure_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="madanjatin" xmi:id="_ljtyf2WIEe6maKWyNUyd5Q"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_8e96ac32-5ee6-430e-bef8-343196d8fb31"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>15utEcywLN3gAVpD4MqKmiff59FJT9dxUh8EmnmeRdDUDDFKQYHeVCqI8z2naUkcdZRpD8o95fvl&#13;
+Qo4jhB6X1Q==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_8e9d325e-9845-472d-9340-8c436bd55ccf"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>GYXNBVLO1CBByM7rchAaKx3jQDnKzoIN//kyDmP2Cx61vxrksgZHo64OZ2zk4ppv4hqXY79jzEZu&#13;
+5y8R02cVBg==</DigestValue></Reference></SignedInfo><SignatureValue>EHvOGf6ftIvAYH6qiTzBnq5sVZ+pYpt8Czf9mW2/Z14PYSAgRnx3lSA12k7+8FY9bC0G25ujMhKn&#13;
+ptVwIx5DJoxouR30ktBXndwlPfotw7cRadbov6pKnOnuP+Cmcc8BpRnDam1jwyFk84h91ic4ULZ5&#13;
+gkg+pI7u675DhN61eQD75yTUSHnQa3teA3nJnAwb1vu68gb8v5YDZBcKkhMGK52mgPzRVcIiFIen&#13;
+uId8ksG18mPDLafox2a7qlGra6Zug+N835P959CrpJIl8YT6Gz9otvhPVpbu/PShbYUFdl/ZqZBe&#13;
+IWQWKgYdw4Zfp25HYRuqhR0aFasqImtHav/Mwg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_8e9d325e-9845-472d-9340-8c436bd55ccf" Target="#_8e96ac32-5ee6-430e-bef8-343196d8fb31"><Timestamp>2023-10-08 03:13:00</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
