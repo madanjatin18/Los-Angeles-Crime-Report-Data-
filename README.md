@@ -1,6 +1,7 @@
 # Los-Angeles-Crime-Report-Data-
 Visually understanding Crime Rate Patterns in LA
-[IndividualProject_Jatin_Madan.pdf]
+
+[Visualization on PowerBI](IndividualProject_Jatin_Madan.pdf)
 
 ## Dataset Overview and Structure
 
