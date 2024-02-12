@@ -12,7 +12,7 @@ This dataset reflects incidents of crime in the City of Los Angeles dating back 
 ## Tools used in ALTRYX
 In analyzing the Los Angeles Crime dataset in Alteryx, the following tools were instrumental in gaining insights into the data's structure, quality, and content:
 
-![](Screenshots/Altryx_workflow.png)
+![](Altryx_workflow.png)
 - **Input Data Tool**:
 I utilized the Input Data Tool to import the Los Angeles Crime dataset into my Alteryx workflow. This tool can be configured to read the dataset from various sources, such as a CSV file.
    
@@ -27,7 +27,7 @@ The Filter Tool provided the capability to control which records pass through th
 
 ## Data types used for staging pipelines in Talend
 
-![](Screenshots/Talend_Pipeline.png)
+![](Talend_Pipeline.png)
 
 Alteryx offers powerful tools for data profiling, including the Summarize Tool and Browse Tool, which allow users to explore and analyze the data types present in their datasets. Leveraging these data types, we can establish appropriate data type mappings in Talend to prevent errors during source-to-target data loads.
 
@@ -90,10 +90,10 @@ Alteryx offers powerful tools for data profiling, including the Summarize Tool a
 3. **tReplace Component**: Use the tReplace Component to identify specific values or patterns in your data and replace them with desired values. This component is invaluable for addressing inconsistencies or typographical errors, enhancing the accuracy and reliability of your dataset.
 
 ## Databases
-![](Screenshots/Azuredatabase.png)
+![](Azuredatabase.png)
 
 **Figure 1: Azure Database Data Description**
 
-![](Screenshots/MySql_workbench.png)
+![](MySql_workbench.png)
 
 **Figure 2: MySQL Workbench**
