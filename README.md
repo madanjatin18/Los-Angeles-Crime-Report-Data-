@@ -1,7 +1,7 @@
 # Los-Angeles-Crime-Report
 
 ## Access the Full PowerBI Report
-To view the complete PowerBI report, please click [here](Final-Report.pdf).
+To view the complete PowerBI report, please click [here](IndividualProject_Jatin_Madan.pdf).
 
 ## Data Abstraction
 This dataset reflects incidents of crime in the City of Los Angeles dating back to 2020. This data is transcribed from original crime reports that are typed on paper; therefore, there may be some inaccuracies. Some location fields with missing data are noted as (0°, 0°). Address fields are only provided to the nearest hundred blocks to maintain privacy. This data is as accurate as the data in the database. Please note questions or concerns in the comments.
